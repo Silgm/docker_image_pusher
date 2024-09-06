@@ -1,1 +1,2 @@
-openeuler/openeuler:24.03-lts
+dbeaver/cloudbeaver:24.2.0
+redpandadata/console:v2.7.1
