@@ -1,1 +1,1 @@
---platform=linux/arm64 openeuler/openeuler:24.03-lts
+redpandadata/console:v2.7.2
