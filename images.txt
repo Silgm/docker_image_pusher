@@ -1,1 +1,1 @@
-redpandadata/console:v2.7.2
+grafana/grafana-enterprise:11.3.0
