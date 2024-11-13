@@ -1,1 +1,1 @@
-grafana/grafana-enterprise:11.3.0
+joxit/docker-registry-ui
