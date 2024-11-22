@@ -1,1 +1,1 @@
-joxit/docker-registry-ui
+haproxy:2.7.3
