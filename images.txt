@@ -1,1 +1,1 @@
-nginx:1.27.3
+moby/buildkit:buildx-stable-1
