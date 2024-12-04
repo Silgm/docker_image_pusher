@@ -1,6 +1,1 @@
-elasticsearch:7.9.3
-kibana:7.9.3
-logstash:7.9.3
-minio/minio:2022.10.21
-rabbitmq:3.9.10-management
-neo4j:5.7.0
+minio/minio:RELEASE.2022-10-21T22-37-48Z
