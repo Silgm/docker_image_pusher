@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2022-10-21T22-37-48Z
+rabbitmq:3.9.10-management
