@@ -1,1 +1,1 @@
-neo4j:5.7.0
+bitnami/minio:2022.10.21
