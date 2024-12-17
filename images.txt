@@ -1,1 +1,1 @@
-bitnami/minio:2022.10.21
+node:12-alpine
