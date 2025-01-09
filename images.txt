@@ -1,1 +1,1 @@
-node:12-alpine
+redpandadata/console:v2.8.1
