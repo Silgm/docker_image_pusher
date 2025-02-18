@@ -1,2 +1,2 @@
---platform=linux/amd64 nginx:1.21.5-alpine
---platform=linux/arm64 nginx:1.21.5-alpine
+--platform=linux/amd64 python:3.12
+--platform=linux/arm64 python:3.12
