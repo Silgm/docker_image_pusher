@@ -1,2 +1,2 @@
---platform=linux/amd64 openeuler/openeuler:20.03-lts-sp4
---platform=linux/arm64 openeuler/openeuler:20.03-lts-sp4
+--platform=linux/amd64 openeuler/openeuler:22.03-lts-sp4
+--platform=linux/arm64 openeuler/openeuler:22.03-lts-sp4
