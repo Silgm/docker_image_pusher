@@ -1,1 +1,1 @@
---platform=linux/amd64 mysql:8.0.41
+redpandadata/redpanda:v25.1.2
