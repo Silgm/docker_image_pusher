@@ -1,2 +1,1 @@
---platform=linux/arm64 clickhouse:lts-jammy
---platform=linux/amd64 clickhouse:lts-jammy
+--platform=linux/amd64 node:20-alpine
