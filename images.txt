@@ -1,1 +1,2 @@
---platform=linux/amd64 nacos/nacos-server:v2.4.1
+--platform=linux/amd64 golang:1.21.0
+--platform=linux/arm64 golang:1.21.0
