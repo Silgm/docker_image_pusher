@@ -1,2 +1,2 @@
---platform=linux/amd64 golang:1.21.0
---platform=linux/arm64 golang:1.21.0
+--platform=linux/amd64 postgres:17.5
+--platform=linux/arm64 postgres:17.5
