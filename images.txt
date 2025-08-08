@@ -1,2 +1,1 @@
---platform=linux/amd64 postgres:17.5
---platform=linux/arm64 postgres:17.5
+--platform=linux/arm64 mysql:8.0.41
