@@ -1,2 +1,2 @@
---platform=linux/arm64 nvidia/cuda:11.8.0-devel-rockylinux8
---platform=linux/amd64 nvidia/cuda:11.8.0-devel-rockylinux8
+--platform=linux/arm64 nvidia/cuda:11.8.0-cudnn8-devel-rockylinux8
+--platform=linux/amd64 nvidia/cuda:11.8.0-cudnn8-devel-rockylinux8
