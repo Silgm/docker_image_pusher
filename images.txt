@@ -1,2 +1,2 @@
---platform=linux/arm64 postgres:15.5
---platform=linux/amd64 postgres:15.5
+--platform=linux/arm64 postgres:15.14
+--platform=linux/amd64 postgres:15.14
