@@ -1,2 +1,4 @@
---platform=linux/arm64 postgres:15.14
---platform=linux/amd64 postgres:15.14
+--platform=linux/arm64 registry.k8s.io/ingress-nginx/controller:v1.6.4
+--platform=linux/amd64 registry.k8s.io/ingress-nginx/controller:v1.6.4
+--platform=linux/arm64 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
+--platform=linux/amd64 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
