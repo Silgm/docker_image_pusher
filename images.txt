@@ -1,2 +1,12 @@
---platform=linux/arm64 busybox:latest
---platform=linux/amd64 busybox:latest
+--platform=linux/arm64 dbeaver/cloudbeaver:25.2.3
+--platform=linux/arm64 redpandadata/console:v3.2.2
+--platform=linux/arm64 redislabs/redisinsight:2.70.1
+--platform=linux/arm64 elkozmon/zoonavigator:2.0.0
+--platform=linux/arm64 prom/prometheus:v3.7.1
+--platform=linux/arm64 grafana/grafana:11.5
+--platform=linux/amd64 dbeaver/cloudbeaver:25.2.3
+--platform=linux/amd64 redpandadata/console:v3.2.2
+--platform=linux/amd64 redislabs/redisinsight:2.70.1
+--platform=linux/amd64 elkozmon/zoonavigator:2.0.0
+--platform=linux/amd64 prom/prometheus:v3.7.1
+--platform=linux/amd64 grafana/grafana:11.5
