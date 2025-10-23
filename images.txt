@@ -1,2 +1,2 @@
---platform=linux/amd64 kibana:7.17.29
---platform=linux/arm64 kibana:7.17.29
+--platform=linux/amd64 kibana:7.17.6
+--platform=linux/arm64 kibana:7.17.6
