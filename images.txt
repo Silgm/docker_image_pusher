@@ -1,2 +1,2 @@
---platform=linux/amd64 clickhouse/clickhouse-server:22.10.7.13
---platform=linux/arm64 clickhouse/clickhouse-server:22.10.7.13
+--platform=linux/amd64 joxit/docker-registry-ui:main-debian
+--platform=linux/arm64 joxit/docker-registry-ui:main-debian
