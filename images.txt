@@ -1,2 +1,2 @@
---platform=linux/amd64 joxit/docker-registry-ui:main-debian
---platform=linux/arm64 joxit/docker-registry-ui:main-debian
+--platform=linux/amd64 hyper/docker-registry-web:latest
+--platform=linux/arm64 hyper/docker-registry-web:latest
