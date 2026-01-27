@@ -1,2 +1,2 @@
---platform=linux/amd64 hyper/docker-registry-web:latest
---platform=linux/arm64 hyper/docker-registry-web:latest
+--platform=linux/amd64 ghcr.io/notconf/notconf-ietf:latest
+
