@@ -1,2 +1,2 @@
---platform=linux/amd64 ghcr.io/notconf/notconf:latest
-
+--platform=linux/amd64 swr.cn-south-1.myhuaweicloud.com/ascendhub/npu-exporter:v7.1.RC1
+--platform=linux/arm64 swr.cn-south-1.myhuaweicloud.com/ascendhub/npu-exporter:v7.1.RC1
